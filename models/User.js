@@ -78,7 +78,7 @@ User.init(
         // use underscores instead of camel-casing (i.e. `comment_text`)
         underscored: true,
         //make it so our model name stays lowercase in the database
-        modelName: 'user'
+        modelName: 'users'
     }
 );
 
